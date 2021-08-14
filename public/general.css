@@ -1,0 +1,39 @@
+header, footer{
+    background-color: #4c756c;
+    margin: 1%;
+    padding: 0.5%;
+    color: white;
+}
+
+main{
+    margin: 1.5%;
+    padding: 0.5%;
+}
+
+table, td, th{
+    background-color: #cbe9e2;
+
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+.project_name{
+    font-weight: bold;
+    color: #1e2c29;
+    text-shadow: 2px 1px 0px #75b1a4;
+}
+
+.author{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 10pt;
+    text-align: right;
+}
+
+.form_div{
+    padding: 0.5%;
+    margin: 0.5%;
+    background-color: #cbe9e2;
+}
